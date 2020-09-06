@@ -81,22 +81,22 @@ Default position for all component in React Native is relative. Adding relative 
 
 Reposition the component using top/right/bottom/left/axis class
 
-| Class       | Style                                                        |
-| ----------- | ------------------------------------------------------------ |
-| insetyt0    | top: 0                                                       |
-| insetyr0    | right: 0                                                     |
-| insetyb0    | bottom: 0                                                    |
-| insetyl0    | left: 0                                                      |
-| insetytAuto | top: auto                                                    |
-| insetybAuto | bottom: auto                                                 |
-| insetylAuto | left: auto                                                   |
-| insetyrAuto | right: auto                                                  |
-| inset0      | top: 0,<br> right: 0,<br> bottom: 0,<br> left: 0             |
-| insety0     | top: 0,<br> bottom: 0                                        |
-| insetx0     | right: 0,<br> left: 0                                        |
-| insetAuto   | top: auto,<br> right: auto,<br> bottom: auto,<br> left: auto |
-| insetyAuto  | top: auto,<br> bottom: auto                                  |
-| insetxAuto  | left: auto,<br> right: auto                                  |
+| Class   | Style                                                        |
+| ------- | ------------------------------------------------------------ |
+| iyt0    | top: 0                                                       |
+| iyr0    | right: 0                                                     |
+| iyb0    | bottom: 0                                                    |
+| iyl0    | left: 0                                                      |
+| iytAuto | top: auto                                                    |
+| iybAuto | bottom: auto                                                 |
+| iylAuto | left: auto                                                   |
+| iyrAuto | right: auto                                                  |
+| i0      | top: 0,<br> right: 0,<br> bottom: 0,<br> left: 0             |
+| iy0     | top: 0,<br> bottom: 0                                        |
+| ix0     | right: 0,<br> left: 0                                        |
+| iAuto   | top: auto,<br> right: auto,<br> bottom: auto,<br> left: auto |
+| iyAuto  | top: auto,<br> bottom: auto                                  |
+| ixAuto  | left: auto,<br> right: auto                                  |
 
 ## Z-Index
 
